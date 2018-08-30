@@ -1,7 +1,5 @@
 import br.com.relatorio.ArquivoFacade;
-import org.springframework.boot.autoconfigure.EnableAutoConfiguration;
 
-@EnableAutoConfiguration
 public class Main {
     private static ArquivoFacade arquivoFacade = new ArquivoFacade();
 

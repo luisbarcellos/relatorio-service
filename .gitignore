@@ -92,6 +92,7 @@ gradlew.bat
 out/
 
 #Pasta Teste
-.data
+data
+dataout
 
 application.pid

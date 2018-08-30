@@ -1,4 +1,4 @@
-package br.com.relatorio.data;
+package br.com.relatorio.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;
