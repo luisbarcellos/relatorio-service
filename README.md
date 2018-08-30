@@ -1,4 +1,8 @@
-# leitura-relatorio
+# relatorio-service
+
+Utilizado:
+Gradle 4.4.1
+SpringBoot
 
 Você deve criar um sistema de análise de dados, onde o sistema deve importar
 lotes de arquivos, ler e analisar os dados e produzir um relatório.
